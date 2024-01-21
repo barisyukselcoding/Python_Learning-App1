@@ -15,7 +15,7 @@ However, the script prints out this:
 
 Hello You
 0
-Can you fix the program so it prints out the expected output?
+Can you fix the program, so it prints out the expected output?
 """
 
 with open("file.txt", 'r') as file:
